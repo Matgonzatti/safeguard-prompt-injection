@@ -1,0 +1,14 @@
+{
+  "matheusgonzatti": {
+    "username": "matheusgonzatti",
+    "role": "admin",
+    "permissions": ["read_package", "execute_commands"],
+    "displayName": "Matheus Gonzatti"
+  },
+  "lenise": {
+    "username": "lenise",
+    "role": "member",
+    "permissions": [],
+    "displayName": "Lenise"
+  }
+}
